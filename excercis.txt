@@ -9,5 +9,5 @@ Les deux membres de l’équipe doivent régler cette erreur de fusion.
 Expliquez-moi comment vous avez réglé l’erreur de fusion. 
 Pensez-vous avoir utilisé la meilleure méthode? Pourquoi?
 Avez-vous utilisé KDiff3?
-
+sidney néron Perron
 
