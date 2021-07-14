@@ -1,0 +1,13 @@
+À faire en équipe de deux.
+Créer un dépôt.
+Faire en sorte que les 2 coéquipiers aient accès au dépôt.
+Le premier membre de l’équipe doit ajouter un fichier .txt au dépôt ayant le texte « Hello World! » à l’intérieur.
+Le deuxième membre de l’équipe doit effectuer un pull du fichier. 
+Les deux membres de l’équipe doivent ajouter à la deuxième ligne du fichier .txt leur nom.
+Les deux membres de l’équipe doivent envoyer leur travail pour effectuer une erreur de fusion (merge).
+Les deux membres de l’équipe doivent régler cette erreur de fusion.
+Expliquez-moi comment vous avez réglé l’erreur de fusion. 
+Pensez-vous avoir utilisé la meilleure méthode? Pourquoi?
+Avez-vous utilisé KDiff3?
+
+
